@@ -16,6 +16,8 @@ Key Highlights:
 
 • Design iteration processes based on user feedback
 
+• Teams, collaboration, communication and global experience
+
 • Multi-system interaction case studies (software, hardware, data flows)
 
 • Practical examples of Vue.js, React.js, and data-driven UI designs
